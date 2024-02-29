@@ -1,4 +1,4 @@
-# Ⓜ️ NodeJS and EJs by Fazt
+# 🍂 NodeJS and EJs by Fazt
 NodeJS puede devolver páginas de HTML utilizando una sintaxis y archivos especiales para que los usuarios naveguen en un sitio web desarrollado simplemente con JavaScript.
 
 ## 🛠 Stack
