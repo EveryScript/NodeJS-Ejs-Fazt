@@ -1,0 +1,30 @@
+body {
+  background-color: #2f2f2f;
+  font-family: system-ui;
+}
+
+main {
+  max-width: 60%;
+  margin: 0 auto;
+  padding: 4rem 0;
+}
+
+h1 {
+  color: #09f07f;
+  font-size: 2.5rem;
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+
+.icon {
+  display: block;
+  font-size: 5rem;
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  color: white;
+}
+
+/*# sourceMappingURL=styles.css.map */

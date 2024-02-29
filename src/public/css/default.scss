@@ -1,0 +1,37 @@
+// --- Main configuration - Sass --- //
+
+// Variables
+$font-primary: system-ui;
+$bg-primary: #2f2f2f;
+$bg-secondary: #4f4f4f;
+$text-primary-color: white;
+$text-secondary-color: #09f07f;
+
+body {
+    background-color: $bg-primary;
+    font-family: $font-primary;
+}
+
+main {
+    max-width: 60%;
+    margin: 0 auto;
+    padding: 4rem 0;
+}
+
+h1 {
+    color: $text-secondary-color;
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: .5rem;
+}
+
+.icon {
+    display: block;
+    font-size: 5rem;
+    text-align: center;
+    margin-bottom: .5rem;
+}
+
+p {
+    color: $text-primary-color;
+}
